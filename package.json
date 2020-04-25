@@ -1,0 +1,11 @@
+{
+  "name": "react-12",
+  "version": "1.0.0",
+  "description": "Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
